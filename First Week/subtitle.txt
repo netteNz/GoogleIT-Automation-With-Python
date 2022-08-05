@@ -1,0 +1,51 @@
+At a basic level, a computer program is a recipe of instructions that tells
+your computer what to do. When you write a program, you create a step by
+step recipe of what needs to be done to
+complete a task and when your computer executes
+the program it reads what you wrote and follows your instructions to the letter. How nice is that? The recipe is written in a code called
+programming language. Programming languages are
+actually similar to humans spoken languages since they
+have a syntax and semantics. Now if it's been awhile since
+your last grammar class, here's a quick refresher
+on syntax and semantics. In a human language, syntax is the rules
+for how a sentence is constructed while
+semantics refers to the actual meaning
+of the statements. In English, sentences
+generally have both a subject, that's a person, place, or thing and a
+predicate usually a verb and a statement that explains what the
+subject is doing. Let's take the sentence, Paula loves to program
+in Python as an example. In this sentence, Paula is the subject and loves to program in Python
+is the predicate. To form a sentence that
+others can understand, you need to know both the
+syntax that constructs the sentence and the semantics
+that gives it meaning. The same applies to
+programming languages. In a programming
+language like Python, the syntax is the rules for
+how each instruction is written and the semantics is the effects the
+instructions have. Much like spoken languages, there are lots of programming
+languages to choose from. Each has its own
+history, features, and applications but they all share the same
+fundamental ideas. So once you understand the basic concepts in one
+programming language, it becomes much easier
+to learn another. Lastly, computers always do
+exactly what they're told. So when you write a program, it's important to be super clear about what you want
+the computer to do. Learning the syntax
+and semantics of the programming language
+you choose will allow you to do just that. Make sense? Before we continue, let's spend a moment
+on terminology. In the next few
+videos you'll hear the term script
+being used a bunch. So what's the difference
+between a script and a program? The line between the two
+can be a bit blurry. In this course, we'll use
+the terms interchangeably. In general, you can think
+of scripts as programs with a short development
+cycle that can be created and deployed rapidly. In other words, a script is
+a program that is short, simple, and can be
+written very quickly. In this course we'll focus on a specific scripting
+language called python which we'll use to learn the basics of programming. We'll learn about
+the python syntax, the rules of how to
+write a python program, and the semantics or meaning of the different
+pieces involved. Before we start
+learning how to code and having you write your
+first python script, let's talk more about what automation is and
+why it's useful.
